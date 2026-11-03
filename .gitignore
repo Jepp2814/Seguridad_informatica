@@ -1,7 +1,8 @@
-﻿venv/
-lab_sqli/
+venv/
+lab_sqli/venv/
 lab_sqli/venv_respaldo/
 __pycache__/
+lab_sqli/__pycache__/
 *.pyc
 *.pyo
 *.db
