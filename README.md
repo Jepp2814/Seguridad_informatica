@@ -1,4 +1,5 @@
 ###Descarga el repositorio antes ingresar tú aporte.
+
 git clone https://github.com/Jepp2814/Seguridad_informatica.git
 
 cd Seguridad_informatica
