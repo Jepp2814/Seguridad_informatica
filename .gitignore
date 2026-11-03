@@ -1,4 +1,5 @@
 ﻿venv/
+lab_sqli/
 lab_sqli/venv_respaldo/
 __pycache__/
 *.pyc
