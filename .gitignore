@@ -1,0 +1,7 @@
+﻿venv/
+lab_sqli/venv_respaldo/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+lab_sqli/resultados/
