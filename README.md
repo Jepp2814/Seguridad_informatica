@@ -6,7 +6,7 @@ cd Seguridad_informatica
 
 code .
 
-###Actualizar github desde vsc.
+###Comandos para Actualizar github desde vsc.
 
 git status
 
