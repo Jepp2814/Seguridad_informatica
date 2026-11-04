@@ -77,3 +77,4 @@ Este script recrea la base de datos segura con contraseñas hasheadas.
 ## 8. Consideraciones de seguridad
 
 Este laboratorio debe ejecutarse únicamente en un entorno de pruebas local y aislado. No debe usarse contra sistemas reales o sin autorización.
+## EVELYN ASIPUELA 
